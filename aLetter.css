@@ -1,0 +1,86 @@
+p{  
+    margin-left: 10px;
+    margin-right: 12px;
+   text-align: justify; 
+   text-justify: inter-word;
+    margin-top: 20px;
+    padding-left: 14px;
+    padding-right: 14px;
+    align-items: left;
+    line-height: 1.4;
+    display: grid;
+    color: aliceblue;
+    font-family:"geologica" ;
+}
+.song {
+    place-items: center;
+    align-content: center;
+    display: grid;
+    color: aliceblue;
+    font-family:"geologica" ;
+  }
+  h2 {
+    text-align: center;
+    place-items: center;
+    align-content: center;
+    font-family: "Space Mono", monospace;
+    color: aliceblue;
+  }
+  section {
+    display: grid;
+    /* place-items: center;
+    align-content: center; */
+    min-height: 100vh;
+  }
+  body {
+    padding-top: 10px;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: black;
+    margin: 0rem;
+    left: 4px;
+  }
+
+  h1{
+    place-items: center;
+    align-content: center;
+    color: aliceblue;
+        font-family: "Jaini", system-ui;
+        font-weight: 400;
+        font-style: normal;  
+        font-size: 80px;
+  }
+
+.flowers{
+    place-items: center;
+    height: 200px;
+    width: 200px;
+  }
+  h3{
+    color: aliceblue;
+    text-align: left;
+    font-family: "Space Mono", system-ui;
+    font-weight: 400;
+    font-style: normal;  
+    font-size: 20px;
+
+  }
+  h4{
+    color: aliceblue;
+    align-items: center;
+    text-align: right;
+    font-family: "Space Mono", system-ui;
+    font-weight: 400;
+    font-style: normal;  
+    font-size: 20px;
+  }
+  h5{
+    color: aliceblue;
+    text-align: right;
+    font-family: "Space Mono", system-ui;
+    font-weight: 400;
+    font-style: normal;  
+    font-size: 20px;
+  }
+  
